@@ -1,7 +1,6 @@
 # Yummy Foods
 
 Yummy Foods is a simple food ordering website designed using HTML, CSS, and JavaScript. This project allows users to browse popular food items, view a gallery of delicious dishes, and place orders. 
-![yummy_home](https://github.com/RMTabish/Yummy-Foods/assets/91379671/05d58545-c4aa-43d6-aba5-d75ca8d0aed0)
 
 ## Features
  
